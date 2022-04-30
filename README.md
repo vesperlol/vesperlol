@@ -1,10 +1,8 @@
-### Hi
+### Hi, Welcome to my profile.
 
-Python_Programmer = {
-      
-      'name':'vesper',
-      'age':'16',
-      'speak':'French,English',
-      'discord':'vesper#0003'
-      
-}
+- vesper
+- 16
+- French, English
+- Python Programmer
+- Discord : vesper#0003
+
