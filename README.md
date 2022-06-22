@@ -6,5 +6,5 @@
 - 16
 - French, English
 - Python Programmer
-- Discord : vesper#0003 (old discord)
+- Discord : vesper#0003
 
